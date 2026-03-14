@@ -14,3 +14,8 @@
 
 # Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josealzate97&theme=dark)](https://git.io/streak-stats)
+
+
+# Top Langs 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealzate97&layout=compact)
