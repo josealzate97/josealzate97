@@ -1,4 +1,6 @@
-![Header](./images/header.png)
+![Header](./images/header_github.png)
+
+
 
 # Jose Alzate
 
