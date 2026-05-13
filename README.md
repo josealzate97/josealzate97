@@ -32,13 +32,13 @@ Backend-oriented Fullstack Developer from Colombia 🇨🇴
 
 ## 🐳 DevOps / Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,redis,rabbit,git" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,redis,rabbitmq,git" />
 </p>
 
 
 ## 🔧 Tools 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,bruno,vscode" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode" />
 </p>
 
 
