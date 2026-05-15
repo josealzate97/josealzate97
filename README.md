@@ -8,6 +8,7 @@ Backend-oriented Fullstack Developer from Colombia 🇨🇴
 🐳 Docker & Linux enthusiast  
 🛠 Focused on APIs, performance and scalable systems  
 🚀 Passionate about clean architecture and automation
+🇨🇴 Colombian
 
 ## ⚙ Backend
 <p>
