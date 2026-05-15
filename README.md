@@ -1,8 +1,5 @@
-<!-- <p align="center">
-  <img src="./images/header_github.png" width="1000" height="500">
-</p> -->
 
-## 👨‍💻 About Me
+## 👨‍💻 Jose Alzate
 
 Backend-oriented Fullstack Developer from Colombia 🇨🇴
 
