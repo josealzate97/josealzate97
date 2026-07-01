@@ -66,6 +66,7 @@ Modern Laravel development environment using Docker and Traefik.
 - Cloud Architecture
 - Advanced DevOps workflows
 - Scalable backend patterns
+- Spec-Driven Development 
 
 ## 🌎 Contact
 
