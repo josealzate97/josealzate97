@@ -1,14 +1,15 @@
 
-## 👨‍💻 Jose Alzate
+## 👨‍💻 José Alzate
 
 Backend-oriented Fullstack Developer from Colombia 🇨🇴
 
 ⚡ 8+ years building web applications  
-🐘 PHP / Symfony / Laravel specialist  
-🐳 Docker & Linux enthusiast  
-🛠 Focused on APIs, performance and scalable systems  
+🐘 PHP / Symfony / Laravel  
+🐳 Docker / CI & Linux enthusiast  
+🛠 Focused on APIs, performance, and scalable systems  
 🚀 Passionate about clean architecture and automation
-🇨🇴 Colombian
+
+Located in Armenia, Colombia
 
 ## ⚙ Backend
 <p>
@@ -49,10 +50,10 @@ Backend-oriented Fullstack Developer from Colombia 🇨🇴
 
 ## 🚀 Featured Projects
 
-### Inventory System
+### Inventory System (Druvle ERP)
 Inventory and subscription management platform with role-based access and multi-plan architecture.
 
-### Payroll System Refactor
+### Payroll System Refactor (One Minute Payroll)
 Refactoring and optimization of a payroll platform improving maintainability and reporting performance.
 
 ### Docker Laravel Environment
@@ -63,7 +64,7 @@ Modern Laravel development environment using Docker and Traefik.
 ## 📚 Currently Learning
 
 - System Design
-- Cloud Architecture
+- IA Concepts (Prompt, Agents, MCP)
 - Advanced DevOps workflows
 - Scalable backend patterns
 - Spec-Driven Development 
