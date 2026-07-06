@@ -15,12 +15,14 @@ Located in Armenia, Colombia
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,symfony" />
 </p>
+<p>PHP - LARAVEL - SYMFONY</p>
 
 
 ## 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=js,tailwind,bootstrap,html,css,astro" />
 </p>
+<p>JS - TAILWIND - BOOTSTRAP - HTML - CSS - ASTRO</p>
 
 
 ## 🗄 Databases
@@ -28,17 +30,23 @@ Located in Armenia, Colombia
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
+<p>MYSQL - POSTGRES - SQLITE</p>
+
 
 ## 🐳 DevOps / Infra
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,redis,rabbitmq,git" />
 </p>
 
+<p>DOCKER - LINUX - NGINX - REDIS -RABBITMQ - GIT</p>
+
 
 ## 🔧 Tools 
 <p>
   <img src="https://skillicons.dev/icons?i=postman,vscode" />
 </p>
+
+<p>POSTMAN - BRUNO - VSCODE</p>
 
 
 
