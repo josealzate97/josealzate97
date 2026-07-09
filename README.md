@@ -3,7 +3,7 @@
 
 Backend-oriented Fullstack Developer from Colombia 🇨🇴
 
-⚡ 8+ years building web applications  
+⚡ 9+ years building web applications  
 🐘 PHP / Symfony / Laravel  
 🐳 Docker / CI & Linux enthusiast  
 🛠 Focused on APIs, performance, and scalable systems  
@@ -46,7 +46,7 @@ Located in Armenia, Colombia
   <img src="https://skillicons.dev/icons?i=postman,vscode" />
 </p>
 
-<p>POSTMAN - BRUNO - VSCODE</p>
+<p>POSTMAN - VSCODE</p>
 
 
 
