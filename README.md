@@ -1,5 +1,5 @@
 
-## 👨‍💻 José Alzate
+## 👨‍💻 José Alzate Barragan
 
 Backend-oriented Fullstack Developer from Colombia 🇨🇴
 
