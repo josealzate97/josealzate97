@@ -1,7 +1,7 @@
 
 ## 👨‍💻 José Alzate Barragan
 
-Backend-oriented Fullstack Developer from Colombia 🇨🇴
+Backend-oriented full-stack developer from Colombia 🇨🇴
 
 ⚡ 9+ years building web applications  
 🐘 PHP / Symfony / Laravel  
