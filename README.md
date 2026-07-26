@@ -5,16 +5,13 @@ Backend-oriented full-stack developer from Armenia, Colombia 🇨🇴
 
 ⚡ 9+ years building web applications  
 🐘 PHP / Symfony / Laravel / JavaScript
-
 🐳 Docker / CI & Linux enthusiast  
 🛠 Focused on APIs, performance, and scalable systems  
 🚀 Passionate about clean architecture and automation
 
-Located in Armenia, Colombia
-
 ## ⚙ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,javascript" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony" />
 </p>
 <p>PHP - LARAVEL - SYMFONY</p>
 
