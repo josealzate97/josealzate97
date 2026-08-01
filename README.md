@@ -42,10 +42,10 @@ Backend-oriented full-stack developer from Armenia, Colombia 🇨🇴
 
 ## 🔧 Tools 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,notion" />
 </p>
 
-<p>POSTMAN - VSCODE- N8N</p>
+<p>POSTMAN - VSCODE- N8N - NOTION</p>
 
 
 
@@ -54,27 +54,13 @@ Backend-oriented full-stack developer from Armenia, Colombia 🇨🇴
 </p>
 
 
-
-## 🚀 Featured Projects
-
-### Inventory System (Druvle ERP)
-Inventory and subscription management platform with role-based access and multi-plan architecture.
-
-### Payroll System Refactor (One Minute Payroll)
-Refactoring and optimization of a payroll platform improving maintainability and reporting performance.
-
-### Docker Laravel Environment
-Modern Laravel development environment using Docker and Traefik.
-
-
-
 ## 📚 Currently Learning
 
-- System Design
+- UI/UX Design
 - IA Concepts (Prompt, Agents, MCP)
-- Advanced DevOps workflows
+- Automation with n8n
 - Scalable backend patterns
-- Spec-Driven Development 
+- AI-Assisted Development
 
 ## 🌎 Contact
 
