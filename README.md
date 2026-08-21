@@ -21,7 +21,7 @@ Full-stack developer from Armenia, Colombia 🇨🇴
 <p>
   <img src="https://skillicons.dev/icons?i=js,tailwind,bootstrap,html,css,astro" />
 </p>
-<p>JS - TAILWIND - BOOTSTRAP - HTML - CSS - ASTRO</p>
+<p>JAVASCRIPT - TAILWIND - BOOTSTRAP - HTML - CSS - ASTRO</p>
 
 
 ## 🗄 Databases
