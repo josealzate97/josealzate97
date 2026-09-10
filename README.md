@@ -37,7 +37,7 @@ Full-stack developer from Armenia, Colombia 🇨🇴
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,redis,rabbitmq,git" />
 </p>
 
-<p>DOCKER - LINUX - NGINX - REDIS -RABBITMQ - GIT</p>
+<p>DOCKER - LINUX - NGINX - REDIS - RABBITMQ - GIT</p>
 
 
 ## 🔧 Tools 
