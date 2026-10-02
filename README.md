@@ -1,5 +1,5 @@
 
-## 👨‍💻 José Alzate Barragan
+## 👨‍💻 José Idier Alzate Barragan
 
 Full-stack developer from Armenia, Colombia 🇨🇴
 
