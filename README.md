@@ -4,7 +4,7 @@
 Full-stack developer from Armenia, Colombia 🇨🇴
 
 ⚡ 9+ years building web applications  
-🐘 PHP / Symfony / Laravel / JavaScript
+🐘 PHP : Symfony / Laravel / JavaScript : Alpine / Angular / Vue Js
 
 🐳 Docker / CI & Linux enthusiast  
 🛠 Focused on APIs, performance, and scalable systems  
