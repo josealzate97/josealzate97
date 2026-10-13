@@ -58,7 +58,7 @@ Full-stack developer from Armenia, Colombia 🇨🇴
 
 - UI/UX Design
 - IA Concepts (Prompt, Agents, MCP)
-- Automation with n8n
+- Angular Js
 - Scalable backend patterns
 - AI-Assisted Development
 
